@@ -1,5 +1,0 @@
-CDM3	/PATH/CDM3.sort.dedup.bam	11.2519	150
-CDM4	/PATH/CDM4.sort.dedup.bam	9.3368	150
-CDM6	/PATH/CDM6.sort.dedup.bam	10.4431	150
-CDM7	/PATH/CDM7.sort.dedup.bam	12.2763	150
-CDM8	/PATH/CDM8.sort.dedup.bam	9.7337	150
